@@ -1,4 +1,4 @@
-# Multipurpose-app
+# Multipurpose-app, Weather calculator, BMI calculator
 Run main1.
 Make sure run this app while internet is connected.
 It uses web-scrapping techniques.
